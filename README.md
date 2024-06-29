@@ -38,5 +38,6 @@ docker build -t cifar-vgg16 .<br>
 docker run -p 5000:5000 cifar-vgg16<br>
 
 
+![image](https://github.com/shelearnai/Cifar_vgg16/assets/6790548/d24a2740-6d52-4ba6-94c3-bfcce650be0a)
 
 
